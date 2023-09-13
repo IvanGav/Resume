@@ -8,7 +8,7 @@
 
 ### Education:
 - Acalanes High School (Aug 2018 - May 2022)
-- CSU Chico, *Bachelor in Computer Science* (Aug 2022 - Now) | Second Year
+- CSU Chico, *Bachelor in Computer Science* (Aug 2022 - Now) \| Second Year
   - Currently taking CSCI 411
 
 ***
