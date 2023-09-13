@@ -1,8 +1,8 @@
 # Ivan Gavrushenko
-##### +1 (415) 996-7253
-##### <ivan.gavby@gmail.com>
-##### Github: <https://github.com/IvanGav>
-##### HackerRank: <https://www.hackerrank.com/h5461658>
+**+1 (415) 996-7253**
+**<ivan.gavby@gmail.com>**
+**Github: <https://github.com/IvanGav>**
+**HackerRank: <https://www.hackerrank.com/h5461658>**
 
 ***
 
