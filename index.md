@@ -8,6 +8,19 @@
 
 ### Education:
 - CSU Chico, *Bachelor in Computer Science* (Aug 2022 - Now) \| Second Year
+- Taken Courses:
+  - Databases (CINS 370)
+    - SQL
+    - Hadoop
+  - Advanced Algorithms and Complexity (CSCI 411)
+    - C++
+    - Graph Algorithms
+    - Dynamic Programming
+    - Complexity
+  - Web and Mobile App development (CINS 467)
+    - Flutter
+    - Google Firebase
+    - Git/Github
 
 ***
 
