@@ -44,18 +44,17 @@ ICPC 2022/2023, *Competitive Programming Competition* (Spring 2022/2023)
 Personal Projects (2020-2024)
 - Several Puzzle Solvers. Learned how to use:
   - Different data structures (arrays, maps, graphs)
-  - Inheritance
-  - Recursive functions
+  - Inheritance and recursive functions
 - Enigma Emulator:  
-  - Used linked lists
-  - Rebuilt and refactored existing code with changes in plans/goals
+  - Used a variety of data structures and classes
+  - Rebuilt and refactored existing code as plans/goals changed
   - Learned ways to debug programs more efficiently
 - Chess:
   - Built a website with JavaScript
-  - Learned to work with front end
-  - Learned to write flexible and extensible code for easy modification
+  - Worked with front end
+  - Learned to write flexible and extensible code for easy future modification
 - A Programming Language and an Interpreter for it:  
+  - Worked on a large project
+  - Applied research to practical coding applications
   - Learned about how interpreters and compilers work
-  - Learned how to work on large projects
-  - Learned how to apply research to practical coding applications
 
