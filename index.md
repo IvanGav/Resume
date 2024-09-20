@@ -2,12 +2,12 @@
 **+1 (415) 996-7253**  
 **<ivan.gavby@gmail.com>**  
 **Github: <https://github.com/IvanGav>**  
-**HackerRank: <https://www.hackerrank.com/h5461658>**
 
 ***
 
 ### Education:
 - CSU Chico, *Bachelor in Computer Science* (Aug 2022 - Now) \| Third Year
+  - GPA: 3.80
 - Taken Courses:
   - Databases
     - SQL
@@ -16,7 +16,7 @@
     - C++
     - Graph Algorithms
     - Dynamic Programming
-    - Complexity
+    - Algorithm Complexity
   - Web and Mobile App development
     - Flutter
     - Google Firebase
@@ -24,6 +24,9 @@
   - Software Engineering
     - Python
     - Working with a team
+  - Cyber Security
+    - Linux
+    - Security
 
 ***
 
@@ -41,20 +44,33 @@ ICPC 2022/2023, *Competitive Programming Competition* (Spring 2022/2023)
 - Learned to quickly understand and approach difficult problems
 - Worked with a small team to solve problems
 
-Personal Projects (2020-2024)
-- Several Puzzle Solvers. Learned how to use:
-  - Different data structures (arrays, maps, graphs)
-  - Inheritance and recursive functions
-- Enigma Emulator:  
-  - Used a variety of data structures and classes
-  - Rebuilt and refactored existing code as plans/goals changed
-  - Learned ways to debug programs more efficiently
-- Chess:
-  - Built a website with JavaScript
-  - Worked with front end
-  - Learned to write flexible and extensible code for easy future modification
-- A Programming Language and an Interpreter for it:  
-  - Worked on a large project
-  - Applied research to practical coding applications
-  - Learned about how interpreters and compilers work
+Chico ACM Club Officer, *Leadership Position* (Fall 2024)
+- Planned and organized Club meetings
+- Gathered feedback from members to improve meetings
 
+***
+
+### Personal Projects (2020-2024)
+
+Cyber Seagull and Cyber Seaquell ([repo](https://github.com/IvanGav/CyberSeaquell)):
+- Worked with a group on a desktop game in C++
+- Made a custom Assembly instruction set and an interpreter for it
+- Coded a custom terminal window as part of the game
+
+Jurassic Chess ([repo](https://github.com/IvanGav/JurassicChess), [website](https://ivangav.github.io/JurassicChess/)):
+- Built a website with TypeScript
+- Learned to write flexible and extensible code for easy future modification
+
+A Programming Language and an Interpreter for it ([repo](https://github.com/IvanGav/RR)):
+- Worked on a large project
+- Applied research to practical coding applications
+- Learned about how interpreters and compilers work
+
+Enigma Emulator ([repo](https://github.com/IvanGav/Enigma):  
+- Used a variety of data structures and classes in Java
+- Rebuilt and refactored existing code as plans/goals changed
+- Learned ways to debug programs more efficiently
+
+Namerizer ([repo](https://github.com/IvanGav/Namerizer)):
+- Developed a full stack application with Flutter and Google Firebase
+- Used git for version control in a team
