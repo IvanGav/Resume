@@ -52,8 +52,8 @@ Chico ACM Club Officer, *Leadership Position* (Fall 2024)
 
 ### Personal Projects (2020-2024)
 
-Cyber Seagull and Cyber Seaquell ([repo](https://github.com/IvanGav/CyberSeaquell)):
-- Worked with a group on a desktop game in C++
+Cyber Seagull, Cyber Seaquell, Cyber Threegull game series ([repo 1](https://github.com/IvanGav/CyberSeagull), [repo 2](https://github.com/IvanGav/CyberSeaquell), [repo 3](https://github.com/IvanGav/CyberThreegull)):
+- Worked with a group on a desktop game in C++ for 24 hour hackathons
 - Made a custom Assembly instruction set and an interpreter for it
 - Coded a custom terminal window as part of the game
 
@@ -61,16 +61,17 @@ Jurassic Chess ([repo](https://github.com/IvanGav/JurassicChess), [website](http
 - Built a website with TypeScript
 - Learned to write flexible and extensible code for easy future modification
 
-A Programming Language and an Interpreter for it ([repo](https://github.com/IvanGav/RR)):
+RR language and interpreter ([repo](https://github.com/IvanGav/RR)):
 - Worked on a large project
 - Applied research to practical coding applications
 - Learned about how interpreters and compilers work
 
-Enigma Emulator ([repo](https://github.com/IvanGav/Enigma):  
+Enigma Emulator ([repo](https://github.com/IvanGav/Enigma)):  
 - Used a variety of data structures and classes in Java
 - Rebuilt and refactored existing code as plans/goals changed
 - Learned ways to debug programs more efficiently
 
-Namerizer ([repo](https://github.com/IvanGav/Namerizer)):
-- Developed a full stack application with Flutter and Google Firebase
-- Used git for version control in a team
+Conman's Game of Life ([repo](https://github.com/IvanGav/ConmansGameOfLife), [website](https://ivangav.github.io/ConmansGameOfLife/)):
+- Built a HTML, CSS and JS project with a small team
+- Programmed the main game logic
+- Efficient debugging and extensible code
