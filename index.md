@@ -5,6 +5,14 @@
 
 ***
 
+### Languages:
+- C++, Java, Java Script, Typescript, CSS, HTML, Python, R
+
+### Skills: 
+- Software Development, Git, Problem Solving, Teamwork
+
+***
+
 ### Education:
 - CSU Chico, *Bachelor in Computer Science* (Aug 2022 - May 2026 *planned graduation*) \| Fourth Year
   - GPA: 3.72
@@ -35,22 +43,23 @@
 ***
 
 ### Computer Science Experience:
-CSSI 2022, *Internship* (July-Aug 2022)
-- Learned HTML, CSS and JavaScript web development.
-- Worked on a site in a group, as a final project
-- Coding in JavaScript for the final project, including working with Google Maps API
-
-CSCI 211 Lab Assistant, *Job* (Sep 2023 - Dec 2024)
-- Helped CSCI 211 students with git and VSCode setup, programming questions
-- Quickly read and understand other people’s code
+Chico ACM Club Officer, *Leadership Position* (Fall 2024 - Spring 2025)
+- Planned and organized Club meetings
+- Chose problems for Club meetings
+- Gathered feedback from members to improve meetings
 
 ICPC 2022/2023/2024, *Competitive Programming Competition* (Spring 2022/2023, Fall 2024)
 - Learned to quickly understand and approach difficult problems
 - Worked with a small team to solve problems in C++
 
-Chico ACM Club Officer, *Leadership Position* (Fall 2024-2025)
-- Planned and organized Club meetings
-- Gathered feedback from members to improve meetings
+Google CSSI 2022, *Internship* (July-Aug 2022)
+- Learned HTML, CSS and JavaScript web development.
+- Worked on a site in a group, as a final project
+- Coding in JavaScript for the final project, including working with Google Maps API
+
+CSCI 211 Lab Assistant, *Job* (Sep 2023 - Dec 2024)
+- Helped CSCI 211 students with git and VSCode setup, programming and Linux questions
+- Quickly read and understand other people’s code
 
 ***
 
