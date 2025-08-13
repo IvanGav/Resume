@@ -6,27 +6,31 @@
 ***
 
 ### Education:
-- CSU Chico, *Bachelor in Computer Science* (Aug 2022 - Now) \| Third Year
-  - GPA: 3.80
+- CSU Chico, *Bachelor in Computer Science* (Aug 2022 - May 2026 *planned graduation*) \| Fourth Year
+  - GPA: 3.72
 - Taken Courses:
-  - Databases
-    - SQL
-    - Hadoop
   - Advanced Algorithms and Complexity
     - C++
     - Graph Algorithms
     - Dynamic Programming
     - Algorithm Complexity
+  - Software Engineering
+    - Python
+    - Working with a team on a semester long project
+  - Numerical/Parallel Programming
+    - C++
+    - Parallel Code Development
+    - Cuda
+  - Cyber Security
+    - Linux
+    - Security
   - Web and Mobile App development
     - Flutter
     - Google Firebase
     - Git/Github
-  - Software Engineering
-    - Python
-    - Working with a team
-  - Cyber Security
-    - Linux
-    - Security
+  - Databases
+    - SQL
+    - Hadoop
 
 ***
 
@@ -40,11 +44,11 @@ CSCI 211 Lab Assistant, *Job* (Sep 2023 - Dec 2024)
 - Helped CSCI 211 students with git and VSCode setup, programming questions
 - Quickly read and understand other people’s code
 
-ICPC 2022/2023, *Competitive Programming Competition* (Spring 2022/2023)
+ICPC 2022/2023/2024, *Competitive Programming Competition* (Spring 2022/2023, Fall 2024)
 - Learned to quickly understand and approach difficult problems
-- Worked with a small team to solve problems
+- Worked with a small team to solve problems in C++
 
-Chico ACM Club Officer, *Leadership Position* (Fall 2024)
+Chico ACM Club Officer, *Leadership Position* (Fall 2024-2025)
 - Planned and organized Club meetings
 - Gathered feedback from members to improve meetings
 
@@ -62,16 +66,16 @@ Jurassic Chess ([repo](https://github.com/IvanGav/JurassicChess), [website](http
 - Learned to write flexible and extensible code for easy future modification
 
 RR language and interpreter ([repo](https://github.com/IvanGav/RR)):
-- Worked on a large project
+- Worked on a large project in C++
 - Applied research to practical coding applications
 - Learned about how interpreters and compilers work
-
-Enigma Emulator ([repo](https://github.com/IvanGav/Enigma)):  
-- Used a variety of data structures and classes in Java
-- Rebuilt and refactored existing code as plans/goals changed
-- Learned ways to debug programs more efficiently
 
 Conman's Game of Life ([repo](https://github.com/IvanGav/ConmansGameOfLife), [website](https://ivangav.github.io/ConmansGameOfLife/)):
 - Built a HTML, CSS and JS project with a small team
 - Programmed the main game logic
 - Efficient debugging and extensible code
+
+Enigma Emulator ([repo](https://github.com/IvanGav/Enigma)):  
+- Used a variety of data structures and classes in Java
+- Rebuilt and refactored existing code as plans/goals changed
+- Learned ways to debug programs more efficiently
